@@ -1,0 +1,4 @@
+2023-08-23 17:39:32 DEBUG D:\Users\Administrator\source\repos\Log\main.cpp:13 hello world
+2023-08-23 17:39:32 DEBUG D:\Users\Administrator\source\repos\Log\main.cpp:14 name is jack, age is 18
+2023-08-23 17:39:32 ERROR D:\Users\Administrator\source\repos\Log\main.cpp:15 error message
+2023-08-24 08:11:43 DEBUG D:\Users\Administrator\source\repos\Log\main.cpp:13 hello world

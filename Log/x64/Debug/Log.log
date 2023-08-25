@@ -1,0 +1,3 @@
+﻿  Logger.cpp
+D:\Users\Administrator\source\repos\Log\Logger.cpp(54,22): warning C4244: “=”: 从“std::streamoff”转换到“int”，可能丢失数据
+  Log.vcxproj -> D:\Users\Administrator\source\repos\Log\x64\Debug\Log.exe
